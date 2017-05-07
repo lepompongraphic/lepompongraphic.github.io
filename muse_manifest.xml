@@ -1,0 +1,96 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://www.lepompongraphic.com" resolutions="1x" timestamp="1494158244691">
+  <folder name="css">
+    <file name="site_global.css" crc="70216365"/>
+    <file name="master_a-p_g_-maestra.css" crc="4218901668" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="269732420" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="index.css" crc="3992853598" ref="index"/>
+    <file name="nomq_index.css" crc="258277592" ref="index"/>
+    <file name="contact.css" crc="3914670363" ref="contact"/>
+    <file name="nomq_contact.css" crc="4252323954" ref="contact"/>
+    <file name="prints.css" crc="387649925" ref="prints"/>
+    <file name="nomq_prints.css" crc="482572566" ref="prints"/>
+    <file name="graphic.css" crc="447967133" ref="graphic"/>
+    <file name="nomq_graphic.css" crc="1810270" ref="graphic"/>
+    <file name="textile-design.css" crc="102884830" ref="textile-design"/>
+    <file name="nomq_textile-design.css" crc="402443285" ref="textile-design"/>
+    <file name="creations.css" crc="4106045790" ref="creations"/>
+    <file name="nomq_creations.css" crc="468412258" ref="creations"/>
+    <file name="about.css" crc="184674420" ref="about"/>
+    <file name="nomq_about.css" crc="3874632342" ref="about"/>
+    <file name="gracias--merci--thanks.css" crc="355727749" ref="gracias--merci--thanks"/>
+    <file name="nomq_gracias--merci--thanks.css" crc="4039784561" ref="gracias--merci--thanks"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="museutils.js" crc="163421577" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="museconfig.js" crc="168988563" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="webpro.js" crc="3848665353" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:graphic"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:graphic"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:graphic"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u17897.php" crc="368652473" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="require.js" crc="244322403" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="pompom logo.jpg" crc="3805362627" seo="true" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="cactus.jpg" crc="315886142" seo="true" ref="index"/>
+    <file name="badminton.jpg" crc="3794947582" seo="true" ref="index"/>
+    <file name="renard.jpg" crc="157113630" seo="true" ref="index"/>
+    <file name="carnet.jpg" crc="3769303679" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="corazon.png" crc="504275122" seo="true" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="renard772x502.jpg" crc="245458032" seo="true" ref="index"/>
+    <file name="cactus550x358.jpg" crc="77901790" seo="true" ref="index"/>
+    <file name="badminton550x358.jpg" crc="457012111" seo="true" ref="index"/>
+    <file name="renard549x357.jpg" crc="3850763739" seo="true" ref="index"/>
+    <file name="carnet549x357.jpg" crc="3795987218" seo="true" ref="index"/>
+    <file name="cactus586x381.jpg" crc="497467225" seo="true" ref="index"/>
+    <file name="renard550x358.jpg" crc="263899592" seo="true" ref="index"/>
+    <file name="carnet550x358.jpg" crc="79519209" seo="true" ref="index"/>
+    <file name="menu.png" crc="3935061649" ref="index:contact"/>
+    <file name="cerrado.png" crc="473227605" ref="index:contact"/>
+    <file name="pompon blanc logo.png" crc="3921894246" seo="true" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="cactus320x209.jpg" crc="508171723" seo="true" ref="index"/>
+    <file name="badminton320x209.jpg" crc="3990716043" seo="true" ref="index"/>
+    <file name="renard320x209.jpg" crc="3852352715" seo="true" ref="index"/>
+    <file name="carnet320x209.jpg" crc="121477387" seo="true" ref="index"/>
+    <file name="06.jpg" crc="3862644400" seo="true" ref="prints"/>
+    <file name="01.jpg" crc="356407503" seo="true" ref="prints"/>
+    <file name="012.jpg" crc="3831221875" seo="true" ref="prints"/>
+    <file name="ohlala.jpg" crc="88771080" seo="true" ref="prints"/>
+    <file name="02.jpg" crc="450201125" seo="true" ref="prints"/>
+    <file name="placé pluie-crop-u18891.jpg" crc="509201931" ref="prints"/>
+    <file name="022.jpg" crc="3983343140" seo="true" ref="prints"/>
+    <file name="rayures pinceau bleu-crop-u18549.jpg" crc="420396236" ref="prints"/>
+    <file name="013.jpg" crc="4131852641" seo="true" ref="prints"/>
+    <file name="placé pluie-crop-u188912.jpg" crc="3775038273" ref="prints"/>
+    <file name="rayures pinceau bleu108x152.jpg" crc="414505877" seo="true" ref="prints"/>
+    <file name="placé pluie-crop-u188913.jpg" crc="3775038273" ref="prints"/>
+    <file name="placé pluie-crop-u188914.jpg" crc="3775038273" ref="prints"/>
+    <file name="placé pluie-crop-u188915.jpg" crc="3775038273" ref="prints"/>
+    <file name="d02.jpg" crc="522105651" seo="true" ref="graphic"/>
+    <file name="d01.jpg" crc="307834200" seo="true" ref="textile-design"/>
+    <file name="d04-.jpg" crc="4108828475" seo="true" ref="textile-design"/>
+    <file name="d05-.jpg" crc="289318833" seo="true" ref="textile-design"/>
+    <file name="d07-.jpg" crc="3991286315" seo="true" ref="textile-design"/>
+  </folder>
+  <file name="index.html" crc="60643326" seo="true" mt="1493806241885" redirect="true"/>
+  <file name="contact.html" crc="490510974" seo="true" mt="1493819679941" redirect="true"/>
+  <file name="prints.html" crc="300178444" seo="true" mt="1493806241885" redirect="true"/>
+  <file name="graphic.html" crc="285851942" seo="true" mt="1493806241885" redirect="true"/>
+  <file name="textile-design.html" crc="285926163" seo="true" mt="1493806241885" redirect="true"/>
+  <file name="creations.html" crc="50903217" seo="true" mt="1493806241885" redirect="true"/>
+  <file name="about.html" crc="4053164408" seo="true" mt="1494158121086" redirect="true"/>
+  <file name="gracias--merci--thanks.html" crc="336048225" seo="true" mt="1493806241885" redirect="true"/>
+</manifest>
