@@ -1,23 +1,23 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://www.lepompongraphic.com" resolutions="1x" timestamp="1495135518760">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://www.lepompongraphic.com" resolutions="1x" timestamp="1495136963182">
   <folder name="css">
     <file name="site_global.css" crc="70216365"/>
-    <file name="master_a-p_g_-maestra.css" crc="345152525" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="509471177" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
-    <file name="index.css" crc="4074409481" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="44354577" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3919358819" ref="index:contact:prints:graphic:textile-design:creations:about:gracias--merci--thanks"/>
+    <file name="index.css" crc="220869468" ref="index"/>
     <file name="nomq_index.css" crc="4224344508" ref="index"/>
-    <file name="contact.css" crc="72632938" ref="contact"/>
+    <file name="contact.css" crc="174786167" ref="contact"/>
     <file name="nomq_contact.css" crc="368297886" ref="contact"/>
-    <file name="prints.css" crc="35183847" ref="prints"/>
+    <file name="prints.css" crc="4278981190" ref="prints"/>
     <file name="nomq_prints.css" crc="4202033412" ref="prints"/>
-    <file name="graphic.css" crc="56927236" ref="graphic"/>
-    <file name="nomq_graphic.css" crc="61758311" ref="graphic"/>
-    <file name="textile-design.css" crc="4203398582" ref="textile-design"/>
+    <file name="graphic.css" crc="3978208759" ref="graphic"/>
+    <file name="nomq_graphic.css" crc="212830255" ref="graphic"/>
+    <file name="textile-design.css" crc="40946824" ref="textile-design"/>
     <file name="nomq_textile-design.css" crc="4185401270" ref="textile-design"/>
-    <file name="creations.css" crc="190831680" ref="creations"/>
+    <file name="creations.css" crc="42435680" ref="creations"/>
     <file name="nomq_creations.css" crc="3774912378" ref="creations"/>
-    <file name="about.css" crc="196408955" ref="about"/>
+    <file name="about.css" crc="479911232" ref="about"/>
     <file name="nomq_about.css" crc="3975392503" ref="about"/>
-    <file name="gracias--merci--thanks.css" crc="4249790402" ref="gracias--merci--thanks"/>
+    <file name="gracias--merci--thanks.css" crc="4056129861" ref="gracias--merci--thanks"/>
     <file name="nomq_gracias--merci--thanks.css" crc="4034168208" ref="gracias--merci--thanks"/>
     <file name="iefonts_about.css" crc="40963361" ref="about"/>
   </folder>
@@ -107,12 +107,12 @@
     <file name="mockup tere 3221x166.jpg" crc="4058671334" seo="true" ref="graphic"/>
     <file name="mockup tere 2222x166.jpg" crc="222298426" seo="true" ref="graphic"/>
   </folder>
-  <file name="index.html" crc="3942248161" seo="true" mt="1495135422805" redirect="true"/>
-  <file name="contact.html" crc="3939751625" seo="true" mt="1495135422805" redirect="true"/>
-  <file name="prints.html" crc="239154941" seo="true" mt="1495135422805" redirect="true"/>
-  <file name="graphic.html" crc="423479266" seo="true" mt="1495135422805" redirect="true"/>
-  <file name="textile-design.html" crc="3936422251" seo="true" mt="1495135422805" redirect="true"/>
-  <file name="creations.html" crc="207812876" seo="true" mt="1495135422805" redirect="true"/>
-  <file name="about.html" crc="333830576" seo="true" mt="1495135422805" redirect="true"/>
-  <file name="gracias--merci--thanks.html" crc="313446743" seo="true" mt="1495135422805" redirect="true"/>
+  <file name="index.html" crc="417345190" seo="true" mt="1495136900107" redirect="true"/>
+  <file name="contact.html" crc="4179410536" seo="true" mt="1495136900107" redirect="true"/>
+  <file name="prints.html" crc="3851944100" seo="true" mt="1495136900107" redirect="true"/>
+  <file name="graphic.html" crc="3988618580" seo="true" mt="1495136921097" redirect="true"/>
+  <file name="textile-design.html" crc="3922267470" seo="true" mt="1495136900107" redirect="true"/>
+  <file name="creations.html" crc="366530773" seo="true" mt="1495136900107" redirect="true"/>
+  <file name="about.html" crc="3803900037" seo="true" mt="1495136900107" redirect="true"/>
+  <file name="gracias--merci--thanks.html" crc="3815811637" seo="true" mt="1495136900107" redirect="true"/>
 </manifest>
