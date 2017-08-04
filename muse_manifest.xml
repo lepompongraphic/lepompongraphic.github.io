@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://www.lepompongraphic.com" resolutions="1x" timestamp="1501864858481">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://www.lepompongraphic.com" resolutions="1x" timestamp="1501866002826">
   <folder name="css">
     <file name="site_global.css" crc="70216365"/>
     <file name="master_a-p_g_-maestra.css" crc="4045697975" ref="index:prints:graphic:creations:about:gracias--merci--thanks"/>
     <file name="nomq_preview_master_a-p_g_-maestra.css" crc="509471177" ref="index:prints:graphic:creations:about:gracias--merci--thanks"/>
-    <file name="index.css" crc="4136097906" ref="index"/>
+    <file name="index.css" crc="229635540" ref="index"/>
     <file name="nomq_index.css" crc="255869453" ref="index"/>
     <file name="prints.css" crc="4023208256" ref="prints"/>
     <file name="nomq_prints.css" crc="4202033412" ref="prints"/>
@@ -113,18 +113,21 @@
     <file name="logoa-.jpg" crc="493317528" seo="true" ref="index"/>
     <file name="ginko 03 or-crop-u252392.jpg" crc="16954968" ref="index"/>
     <file name="easy 03-crop-u251642.jpg" crc="341713581" ref="index"/>
-    <file name="mockup tere 2221x166.jpg" crc="400687056" seo="true" ref="index"/>
     <file name="ginko 03 or-crop-u252393.jpg" crc="3799245" ref="index"/>
     <file name="easy 03-crop-u251643.jpg" crc="4084605459" ref="index"/>
     <file name="ginko 03 or-crop-u252394.jpg" crc="4264129413" ref="index"/>
     <file name="easy 03-crop-u251644.jpg" crc="4226137053" ref="index"/>
     <file name="ginko 03 or320x452.jpg" crc="381218057" seo="true" ref="index"/>
     <file name="easy 03320x453.jpg" crc="4099585886" seo="true" ref="index"/>
+    <file name="mockup tere 2-crop-u250072.jpg" crc="46439149" ref="index"/>
+    <file name="mockup tere 2-crop-u250073.jpg" crc="4162060349" ref="index"/>
+    <file name="mockup tere 2-crop-u250074.jpg" crc="4162060349" ref="index"/>
+    <file name="mockup tere 2-crop-u250075.jpg" crc="288524650" ref="index"/>
   </folder>
-  <file name="index.html" crc="3848126679" seo="true" mt="1501864671584" redirect="true"/>
-  <file name="prints.html" crc="381157900" seo="true" mt="1495183433369" redirect="true"/>
-  <file name="graphic.html" crc="8872024" seo="true" mt="1495184030065" redirect="true"/>
-  <file name="creations.html" crc="147813247" seo="true" mt="1495183433369" redirect="true"/>
-  <file name="about.html" crc="265931421" seo="true" mt="1501861782272" redirect="true"/>
-  <file name="gracias--merci--thanks.html" crc="3785424305" seo="true" mt="1495183433369" redirect="true"/>
+  <file name="index.html" crc="4010726000" seo="true" mt="1501865839827" redirect="true"/>
+  <file name="prints.html" crc="3769795200" seo="true" mt="1501865839827" redirect="true"/>
+  <file name="graphic.html" crc="361601167" seo="true" mt="1501865839827" redirect="true"/>
+  <file name="creations.html" crc="4147955809" seo="true" mt="1501865839827" redirect="true"/>
+  <file name="about.html" crc="318146741" seo="true" mt="1501865839827" redirect="true"/>
+  <file name="gracias--merci--thanks.html" crc="248094115" seo="true" mt="1501865839827" redirect="true"/>
 </manifest>
