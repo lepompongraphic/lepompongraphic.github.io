@@ -1,128 +1,119 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.lepompongraphic.com" resolutions="1x" timestamp="1516871049366">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.lepompongraphic.com" resolutions="1x" timestamp="1517327518590">
   <folder name="css">
     <file name="site_global.css" crc="35523125"/>
-    <file name="master_a-p_g_-maestra.css" crc="4041157124" ref="about:trends:darjeeling-fw18:gracias--merci--thanks:darjeeling-ss17:contact:stationery:prints:inicio---copia:graphic:craftwork:logo-asso-architects-belleville:index:creations:neo-swing"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3927611051" ref="about:trends:darjeeling-fw18:gracias--merci--thanks:darjeeling-ss17:contact:stationery:prints:inicio---copia:graphic:craftwork:logo-asso-architects-belleville:index:creations:neo-swing"/>
-    <file name="about.css" crc="3858004356" ref="about"/>
-    <file name="nomq_about.css" crc="207687251" ref="about"/>
+    <file name="master_a-p_g_-maestra.css" crc="3981443832" ref="about:trends:darjeeling-fw18:darjeeling-ss17:contact:stationery:prints:graphic:craftwork:logo-asso-architects-belleville:index:creations:neo-swing:packaging"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="4032181094" ref="about:trends:darjeeling-fw18:darjeeling-ss17:contact:stationery:prints:graphic:craftwork:logo-asso-architects-belleville:index:creations:neo-swing:packaging"/>
+    <file name="about.css" crc="44117133" ref="about"/>
+    <file name="nomq_about.css" crc="378325284" ref="about"/>
     <file name="iefonts_about.css" crc="40963361" ref="about"/>
-    <file name="trends.css" crc="3867365926" ref="trends"/>
-    <file name="nomq_trends.css" crc="3955601112" ref="trends"/>
+    <file name="trends.css" crc="354776469" ref="trends"/>
+    <file name="nomq_trends.css" crc="242685138" ref="trends"/>
     <file name="iefonts_trends.css" crc="40963361" ref="trends"/>
-    <file name="darjeeling-fw18.css" crc="4079825708" ref="darjeeling-fw18"/>
-    <file name="nomq_darjeeling-fw18.css" crc="72668134" ref="darjeeling-fw18"/>
+    <file name="darjeeling-fw18.css" crc="4087718036" ref="darjeeling-fw18"/>
+    <file name="nomq_darjeeling-fw18.css" crc="206292421" ref="darjeeling-fw18"/>
     <file name="iefonts_darjeeling-fw18.css" crc="40963361" ref="darjeeling-fw18"/>
-    <file name="gracias--merci--thanks.css" crc="363534298" ref="gracias--merci--thanks"/>
-    <file name="nomq_gracias--merci--thanks.css" crc="368248828" ref="gracias--merci--thanks"/>
-    <file name="iefonts_gracias--merci--thanks.css" crc="40963361" ref="gracias--merci--thanks"/>
-    <file name="darjeeling-ss17.css" crc="164130401" ref="darjeeling-ss17"/>
-    <file name="nomq_darjeeling-ss17.css" crc="530063564" ref="darjeeling-ss17"/>
+    <file name="darjeeling-ss17.css" crc="135053443" ref="darjeeling-ss17"/>
+    <file name="nomq_darjeeling-ss17.css" crc="140848436" ref="darjeeling-ss17"/>
     <file name="iefonts_darjeeling-ss17.css" crc="40963361" ref="darjeeling-ss17"/>
-    <file name="contact.css" crc="406681494" ref="contact"/>
-    <file name="nomq_contact.css" crc="4269320209" ref="contact"/>
+    <file name="contact.css" crc="4229633168" ref="contact"/>
+    <file name="nomq_contact.css" crc="3955893343" ref="contact"/>
     <file name="iefonts_contact.css" crc="40963361" ref="contact"/>
-    <file name="stationery.css" crc="4092648856" ref="stationery"/>
-    <file name="nomq_stationery.css" crc="176154740" ref="stationery"/>
+    <file name="stationery.css" crc="3934545384" ref="stationery"/>
+    <file name="nomq_stationery.css" crc="3876853409" ref="stationery"/>
     <file name="iefonts_stationery.css" crc="40963361" ref="stationery"/>
-    <file name="prints.css" crc="519722410" ref="prints"/>
-    <file name="nomq_prints.css" crc="3867676646" ref="prints"/>
+    <file name="prints.css" crc="263871867" ref="prints"/>
+    <file name="nomq_prints.css" crc="4085646434" ref="prints"/>
     <file name="iefonts_prints.css" crc="40963361" ref="prints"/>
-    <file name="inicio---copia.css" crc="250672768" ref="inicio---copia"/>
-    <file name="nomq_inicio---copia.css" crc="365480077" ref="inicio---copia"/>
-    <file name="iefonts_inicio---copia.css" crc="40963361" ref="inicio---copia"/>
-    <file name="graphic.css" crc="87229286" ref="graphic"/>
-    <file name="nomq_graphic.css" crc="3931800482" ref="graphic"/>
+    <file name="graphic.css" crc="4059436742" ref="graphic"/>
+    <file name="nomq_graphic.css" crc="3843112281" ref="graphic"/>
     <file name="iefonts_graphic.css" crc="40963361" ref="graphic"/>
-    <file name="craftwork.css" crc="4213416788" ref="craftwork"/>
-    <file name="nomq_craftwork.css" crc="282029963" ref="craftwork"/>
+    <file name="craftwork.css" crc="3983783086" ref="craftwork"/>
+    <file name="nomq_craftwork.css" crc="731356" ref="craftwork"/>
     <file name="iefonts_craftwork.css" crc="40963361" ref="craftwork"/>
-    <file name="logo-asso-architects-belleville.css" crc="3796024398" ref="logo-asso-architects-belleville"/>
-    <file name="nomq_logo-asso-architects-belleville.css" crc="358640495" ref="logo-asso-architects-belleville"/>
+    <file name="logo-asso-architects-belleville.css" crc="4058560522" ref="logo-asso-architects-belleville"/>
+    <file name="nomq_logo-asso-architects-belleville.css" crc="253482069" ref="logo-asso-architects-belleville"/>
     <file name="iefonts_logo-asso-architects-belleville.css" crc="40963361" ref="logo-asso-architects-belleville"/>
-    <file name="index.css" crc="3869181670" ref="index"/>
-    <file name="nomq_index.css" crc="3992329771" ref="index"/>
+    <file name="index.css" crc="4088710640" ref="index"/>
+    <file name="nomq_index.css" crc="231997253" ref="index"/>
     <file name="iefonts_index.css" crc="40963361" ref="index"/>
-    <file name="creations.css" crc="183920027" ref="creations"/>
-    <file name="nomq_creations.css" crc="304968811" ref="creations"/>
+    <file name="creations.css" crc="4099180349" ref="creations"/>
+    <file name="nomq_creations.css" crc="3836756642" ref="creations"/>
     <file name="iefonts_creations.css" crc="40963361" ref="creations"/>
-    <file name="neo-swing.css" crc="4084374404" ref="neo-swing"/>
-    <file name="nomq_neo-swing.css" crc="164547407" ref="neo-swing"/>
+    <file name="neo-swing.css" crc="4044262249" ref="neo-swing"/>
+    <file name="nomq_neo-swing.css" crc="54886911" ref="neo-swing"/>
     <file name="iefonts_neo-swing.css" crc="40963361" ref="neo-swing"/>
+    <file name="packaging.css" crc="95980771" ref="packaging"/>
+    <file name="nomq_packaging.css" crc="3928214705" ref="packaging"/>
+    <file name="iefonts_packaging.css" crc="40963361" ref="packaging"/>
   </folder>
   <folder name="assets">
     <file name="neuronal_connections.mp4" crc="330698157" seo="true" mt="1516645990000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="webpro.js" crc="242022427" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u17897.php" crc="318416921" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="require.js" crc="4157109226" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="form-u58545.php" crc="4146945667" ref="contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="require.js" crc="4157109226" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="form-u58545.php" crc="159215057" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends"/>
-    <file name="logo pompon.png" crc="245277236" seo="true" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends">
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging"/>
+    <file name="logo pompon.png" crc="245277236" seo="true" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
@@ -133,16 +124,26 @@
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
@@ -152,7 +153,7 @@
     <file name="ns carte-crop-u51155.jpg" crc="3766791862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cafe litt.jpg" crc="460372451" seo="true" ref="index:prints:inicio---copia">
+    <file name="cafe litt.jpg" crc="460372451" seo="true" ref="index:prints">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="prints" alt=""/>
@@ -160,7 +161,7 @@
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
     </file>
-    <file name="01.gif" crc="4084432125" seo="true" ref="index:inicio---copia">
+    <file name="01.gif" crc="4084432125" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -172,7 +173,7 @@
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
     </file>
-    <file name="035.jpg" crc="3820788473" seo="true" ref="index:inicio---copia">
+    <file name="035.jpg" crc="3820788473" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -180,7 +181,7 @@
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
     </file>
-    <file name="02.gif" crc="199809346" seo="true" ref="index:inicio---copia">
+    <file name="02.gif" crc="199809346" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -192,13 +193,10 @@
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
     </file>
-    <file name="tin sel rayas azules-crop-u51331.jpg" crc="321374217" seo="true" ref="index">
+    <file name="darj-crop-u51577.jpg" crc="531564717" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="darj-crop-u51577.jpg" crc="431648956" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="licorn-crop-u51603.jpg" crc="4182686947" seo="true" ref="index">
+    <file name="licorn-crop-u51603.jpg" crc="417139253" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="alogo rojo-crop-u51353.jpg" crc="3827764020" seo="true" ref="index">
@@ -210,237 +208,158 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
-    </file>
-    <file name="03.png" crc="3883347843" seo="true" ref="index:inicio---copia">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="01.png" crc="4178186167" seo="true" ref="index:graphic:inicio---copia">
-      <caption webpage="index" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="graphic" alt=""/>
-    </file>
-    <file name="02.png" crc="278592367" seo="true" ref="index:inicio---copia">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="05.png" crc="360529812" seo="true" ref="index:prints:inicio---copia">
-      <caption webpage="index" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="06.png" crc="4261469905" seo="true" ref="index:inicio---copia">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="07.png" crc="203216724" seo="true" ref="index:graphic:inicio---copia">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="graphic" alt=""/>
-      <caption webpage="graphic" alt=""/>
-    </file>
-    <file name="08.png" crc="523497713" seo="true" ref="index:prints:inicio---copia">
-      <caption webpage="index" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="14.png" crc="478902172" seo="true" ref="index:graphic:inicio---copia:creations">
-      <caption webpage="index" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
       <caption webpage="creations" alt=""/>
       <caption webpage="creations" alt=""/>
-      <caption webpage="graphic" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
     </file>
-    <file name="01-mood-board-.gif" crc="337941792" seo="true" ref="index:inicio---copia">
+    <file name="03.png" crc="3883347843" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
     </file>
-    <file name="11.png" crc="4127413334" seo="true" ref="index:inicio---copia">
+    <file name="01.png" crc="4178186167" seo="true" ref="index:graphic">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+    </file>
+    <file name="02.png" crc="278592367" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
     </file>
-    <file name="p copia.png" crc="3790301262" seo="true" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends">
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
+    <file name="05.png" crc="360529812" seo="true" ref="index:prints">
+      <caption webpage="index" alt=""/>
       <caption webpage="prints" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
+    </file>
+    <file name="06.png" crc="4261469905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
+    </file>
+    <file name="07.png" crc="203216724" seo="true" ref="index:graphic">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="trends" alt=""/>
-      <caption webpage="trends" alt=""/>
-      <caption webpage="trends" alt=""/>
-      <caption webpage="trends" alt=""/>
-      <caption webpage="trends" alt=""/>
-      <caption webpage="stationery" alt=""/>
-      <caption webpage="stationery" alt=""/>
-      <caption webpage="stationery" alt=""/>
-      <caption webpage="stationery" alt=""/>
-      <caption webpage="stationery" alt=""/>
-      <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
-      <caption webpage="graphic" alt=""/>
-      <caption webpage="graphic" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+    </file>
+    <file name="08.png" crc="523497713" seo="true" ref="index:prints">
+      <caption webpage="index" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+    </file>
+    <file name="14.png" crc="478902172" seo="true" ref="index:graphic:creations">
+      <caption webpage="index" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="insta copia.png" crc="3770012262" seo="true" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends">
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
+    <file name="01-mood-board-.gif" crc="337941792" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+    </file>
+    <file name="11.png" crc="4127413334" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+    </file>
+    <file name="p copia.png" crc="4160354213" seo="true" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="logo-asso-architects-belleville" alt=""/>
+      <caption webpage="logo-asso-architects-belleville" alt=""/>
+      <caption webpage="logo-asso-architects-belleville" alt=""/>
+      <caption webpage="logo-asso-architects-belleville" alt=""/>
+      <caption webpage="logo-asso-architects-belleville" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
@@ -451,73 +370,78 @@
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="f copia.png" crc="382830824" seo="true" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends">
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
+    <file name="insta copia.png" crc="112136100" seo="true" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
@@ -528,73 +452,78 @@
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="be copia.png" crc="4172139689" seo="true" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends">
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
+    <file name="f copia.png" crc="76577068" seo="true" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
@@ -605,73 +534,78 @@
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="t copia.png" crc="178233170" seo="true" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends">
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
+    <file name="be copia.png" crc="16655772" seo="true" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
@@ -682,73 +616,78 @@
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="corazon.png" crc="504275122" seo="true" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends">
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
+    <file name="t copia.png" crc="4189387019" seo="true" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
@@ -759,73 +698,78 @@
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="copyright copia.png" crc="3948922265" seo="true" ref="index:about:gracias--merci--thanks:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:inicio---copia:craftwork:creations:trends">
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="craftwork" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-ss17" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="darjeeling-fw18" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
+    <file name="corazon.png" crc="504275122" seo="true" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
       <caption webpage="logo-asso-architects-belleville" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
-      <caption webpage="neo-swing" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
       <caption webpage="stationery" alt=""/>
@@ -836,16 +780,108 @@
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
       <caption webpage="gracias--merci--thanks" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+    </file>
+    <file name="copyright copia.png" crc="3948922265" seo="true" ref="index:about:contact:prints:graphic:logo-asso-architects-belleville:neo-swing:darjeeling-fw18:darjeeling-ss17:stationery:craftwork:creations:trends:packaging">
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="logo-asso-architects-belleville" alt=""/>
+      <caption webpage="logo-asso-architects-belleville" alt=""/>
+      <caption webpage="logo-asso-architects-belleville" alt=""/>
+      <caption webpage="logo-asso-architects-belleville" alt=""/>
+      <caption webpage="logo-asso-architects-belleville" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="trends" alt=""/>
+      <caption webpage="trends" alt=""/>
+      <caption webpage="trends" alt=""/>
+      <caption webpage="trends" alt=""/>
+      <caption webpage="trends" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="prints" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="stationery" alt=""/>
+      <caption webpage="stationery" alt=""/>
+      <caption webpage="stationery" alt=""/>
+      <caption webpage="stationery" alt=""/>
+      <caption webpage="stationery" alt=""/>
+      <caption webpage="gracias--merci--thanks" alt=""/>
+      <caption webpage="gracias--merci--thanks" alt=""/>
+      <caption webpage="gracias--merci--thanks" alt=""/>
+      <caption webpage="gracias--merci--thanks" alt=""/>
+      <caption webpage="gracias--merci--thanks" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
+      <caption webpage="darjeeling-ss17" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
       <caption webpage="graphic" alt=""/>
@@ -855,13 +891,10 @@
     <file name="ns carte-crop-u511552.jpg" crc="335600935" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tin sel rayas azules-crop-u513312.jpg" crc="3873151053" seo="true" ref="index">
+    <file name="darj-crop-u515772.jpg" crc="434958427" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="darj-crop-u515772.jpg" crc="3803562786" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="licorn-crop-u516032.jpg" crc="4083554817" seo="true" ref="index">
+    <file name="licorn-crop-u516032.jpg" crc="4124277988" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="alogo rojo-crop-u513532.jpg" crc="261263269" seo="true" ref="index">
@@ -883,9 +916,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="cafe litt258x258.jpg" crc="30478871" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tin sel rayas azules-crop-u513313.jpg" crc="499315331" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="darj-crop-u515773.jpg" crc="3979226557" seo="true" ref="index">
@@ -928,7 +958,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="044.jpg" crc="414796242" seo="true" ref="index:inicio---copia">
+    <file name="044.jpg" crc="414796242" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -937,9 +967,6 @@
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="tin sel rayas azules-crop-u513314.jpg" crc="3884193826" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="darj-crop-u515774.jpg" crc="4068593217" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -983,9 +1010,6 @@
     <file name="ns carte-crop-u511555.jpg" crc="19785811" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tin sel rayas azules-crop-u513315.jpg" crc="3884193826" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="darj-crop-u515775.jpg" crc="3957250700" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1022,7 +1046,7 @@
     <file name="web send máquina200x200.jpg" crc="3800626754" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="darj-crop-u71111.jpg" crc="431648956" seo="true" ref="prints">
+    <file name="darj-crop-u71111.jpg" crc="531564717" seo="true" ref="prints">
       <caption webpage="prints" alt=""/>
     </file>
     <file name="boheme all over-crop-u64342.jpg" crc="4120551923" seo="true" ref="prints">
@@ -1116,7 +1140,7 @@
       <caption webpage="prints" alt=""/>
       <caption webpage="prints" alt=""/>
     </file>
-    <file name="darj-crop-u711112.jpg" crc="3803562786" seo="true" ref="prints">
+    <file name="darj-crop-u711112.jpg" crc="434958427" seo="true" ref="prints">
       <caption webpage="prints" alt=""/>
     </file>
     <file name="boheme all over-crop-u643422.jpg" crc="361161429" seo="true" ref="prints">
@@ -1279,7 +1303,7 @@
     <file name="poster street-crop-u74833.jpg" crc="4051890920" seo="true" ref="graphic">
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="alogo rojo-crop-u65449.jpg" crc="3827764020" seo="true" ref="graphic">
+    <file name="alogo rojo-crop-u65449.jpg" crc="4086245794" seo="true" ref="graphic">
       <caption webpage="graphic" alt=""/>
     </file>
     <file name="mockup tere 3-crop-u65451.jpg" crc="4027197614" seo="true" ref="graphic">
@@ -1297,7 +1321,7 @@
     <file name="poster street-crop-u748332.jpg" crc="75379488" seo="true" ref="graphic">
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="alogo rojo-crop-u654492.jpg" crc="261263269" seo="true" ref="graphic">
+    <file name="alogo rojo-crop-u654492.jpg" crc="4224137877" seo="true" ref="graphic">
       <caption webpage="graphic" alt=""/>
     </file>
     <file name="mockup tere 3-crop-u654512.jpg" crc="4019451225" seo="true" ref="graphic">
@@ -1315,7 +1339,7 @@
     <file name="poster street-crop-u748333.jpg" crc="168435020" seo="true" ref="graphic">
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="alogo rojo-crop-u654493.jpg" crc="4077342312" seo="true" ref="graphic">
+    <file name="alogo rojo-crop-u654493.jpg" crc="507425844" seo="true" ref="graphic">
       <caption webpage="graphic" alt=""/>
     </file>
     <file name="mockup tere 3-crop-u654513.jpg" crc="3801498661" seo="true" ref="graphic">
@@ -1333,7 +1357,7 @@
     <file name="poster street-crop-u748334.jpg" crc="3890004349" seo="true" ref="graphic">
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="alogo rojo-crop-u654494.jpg" crc="3862267961" seo="true" ref="graphic">
+    <file name="alogo rojo-crop-u654494.jpg" crc="14222924" seo="true" ref="graphic">
       <caption webpage="graphic" alt=""/>
     </file>
     <file name="mockup tere 3-crop-u654514.jpg" crc="214432374" seo="true" ref="graphic">
@@ -1351,7 +1375,7 @@
     <file name="poster street-crop-u748335.jpg" crc="3890004349" seo="true" ref="graphic">
       <caption webpage="graphic" alt=""/>
     </file>
-    <file name="alogo rojo-crop-u654495.jpg" crc="3919014672" seo="true" ref="graphic">
+    <file name="alogo rojo-crop-u654495.jpg" crc="14222924" seo="true" ref="graphic">
       <caption webpage="graphic" alt=""/>
     </file>
     <file name="mockup tere 3-crop-u654515.jpg" crc="214432374" seo="true" ref="graphic">
@@ -1452,9 +1476,6 @@
     <file name="ns carte-crop-u68123.jpg" crc="411940245" seo="true" ref="neo-swing">
       <caption webpage="neo-swing" alt=""/>
     </file>
-    <file name="ns print w tatiana-crop-u68186.jpg" crc="268128131" seo="true" ref="neo-swing">
-      <caption webpage="neo-swing" alt=""/>
-    </file>
     <file name="ns t-shirt guy.jpg" crc="4170409631" seo="true" ref="neo-swing">
       <caption webpage="neo-swing" alt=""/>
       <caption webpage="neo-swing" alt=""/>
@@ -1475,9 +1496,6 @@
     <file name="ns carte-crop-u681232.jpg" crc="179069611" seo="true" ref="neo-swing">
       <caption webpage="neo-swing" alt=""/>
     </file>
-    <file name="ns print w tatiana-crop-u681862.jpg" crc="3923008214" seo="true" ref="neo-swing">
-      <caption webpage="neo-swing" alt=""/>
-    </file>
     <file name="ns shop sign-crop-u681382.jpg" crc="141583944" seo="true" ref="neo-swing">
       <caption webpage="neo-swing" alt=""/>
     </file>
@@ -1493,7 +1511,9 @@
     <file name="ns carte-crop-u681233.jpg" crc="411940245" seo="true" ref="neo-swing">
       <caption webpage="neo-swing" alt=""/>
     </file>
-    <file name="ns print w tatiana.jpg" crc="190719213" seo="true" ref="neo-swing">
+    <file name="ns print w tatiana.jpg" crc="3937463893" seo="true" ref="neo-swing">
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
       <caption webpage="neo-swing" alt=""/>
     </file>
     <file name="ns shop sign-crop-u681383.jpg" crc="3801936575" seo="true" ref="neo-swing">
@@ -1509,9 +1529,6 @@
       <caption webpage="neo-swing" alt=""/>
     </file>
     <file name="ns carte-crop-u681234.jpg" crc="4273054833" seo="true" ref="neo-swing">
-      <caption webpage="neo-swing" alt=""/>
-    </file>
-    <file name="ns print w tatiana-crop-u681863.jpg" crc="347024674" seo="true" ref="neo-swing">
       <caption webpage="neo-swing" alt=""/>
     </file>
     <file name="ns t-shirt guy280x280.jpg" crc="390130259" seo="true" ref="neo-swing">
@@ -1533,9 +1550,6 @@
     <file name="ns carte-crop-u681235.jpg" crc="4273054833" seo="true" ref="neo-swing">
       <caption webpage="neo-swing" alt=""/>
     </file>
-    <file name="ns print w tatiana-crop-u681864.jpg" crc="3785987338" seo="true" ref="neo-swing">
-      <caption webpage="neo-swing" alt=""/>
-    </file>
     <file name="ns shop sign-crop-u681385.jpg" crc="4103661189" seo="true" ref="neo-swing">
       <caption webpage="neo-swing" alt=""/>
     </file>
@@ -1546,6 +1560,9 @@
       <caption webpage="neo-swing" alt=""/>
     </file>
     <file name="cafe litte.jpg" crc="3958293042" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
@@ -1572,11 +1589,17 @@
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
     </file>
     <file name="cafe litt-crop-u76861.jpg" crc="360066455" seo="true" ref="darjeeling-fw18">
       <caption webpage="darjeeling-fw18" alt=""/>
     </file>
     <file name="d cafe litteraire.jpg" crc="392134981" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
@@ -1607,6 +1630,10 @@
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
     </file>
     <file name="d cafe.jpg" crc="78806622" seo="true" ref="darjeeling-fw18">
       <caption webpage="darjeeling-fw18" alt=""/>
@@ -1617,8 +1644,15 @@
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
     </file>
     <file name="cafe l.jpg" crc="44426671" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
@@ -1693,11 +1727,14 @@
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
     </file>
     <file name="cafe litt-crop-u768614.jpg" crc="4186350495" seo="true" ref="darjeeling-fw18">
       <caption webpage="darjeeling-fw18" alt=""/>
     </file>
     <file name="d cafe litteraire280x302.jpg" crc="519852562" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+      <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
@@ -1741,6 +1778,7 @@
       <caption webpage="darjeeling-fw18" alt=""/>
     </file>
     <file name="ohlala223x315.jpg" crc="80701574" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
       <caption webpage="darjeeling-fw18" alt=""/>
@@ -1923,7 +1961,7 @@
     <file name="mockup tere 3-crop-u73455.jpg" crc="4027197614" seo="true" ref="stationery">
       <caption webpage="stationery" alt=""/>
     </file>
-    <file name="licorn-crop-u72656.jpg" crc="4182686947" seo="true" ref="stationery">
+    <file name="licorn-crop-u72656.jpg" crc="417139253" seo="true" ref="stationery">
       <caption webpage="stationery" alt=""/>
     </file>
     <file name="dibujo narbonne413x266.jpg" crc="3870754715" seo="true" ref="stationery">
@@ -1956,7 +1994,7 @@
     <file name="mockup tere 3-crop-u734552.jpg" crc="26147811" seo="true" ref="stationery">
       <caption webpage="stationery" alt=""/>
     </file>
-    <file name="licorn-crop-u726562.jpg" crc="3936359609" seo="true" ref="stationery">
+    <file name="licorn-crop-u726562.jpg" crc="358677069" seo="true" ref="stationery">
       <caption webpage="stationery" alt=""/>
     </file>
     <file name="dibujo narbonne-crop-u72769.jpg" crc="91792646" seo="true" ref="stationery">
@@ -1971,7 +2009,7 @@
     <file name="mockup tere 3-crop-u734553.jpg" crc="4027197614" seo="true" ref="stationery">
       <caption webpage="stationery" alt=""/>
     </file>
-    <file name="licorn-crop-u726563.jpg" crc="4182686947" seo="true" ref="stationery">
+    <file name="licorn-crop-u726563.jpg" crc="417139253" seo="true" ref="stationery">
       <caption webpage="stationery" alt=""/>
     </file>
     <file name="dibujo narbonne-crop-u727692.jpg" crc="4241230765" seo="true" ref="stationery">
@@ -2026,132 +2064,16 @@
     <file name="mockup tere 2-crop-u734285.jpg" crc="3856027145" seo="true" ref="stationery">
       <caption webpage="stationery" alt=""/>
     </file>
-    <file name="ns carte-crop-u72852.jpg" crc="3766791862" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="tin sel rayas azules-crop-u72865.jpg" crc="321374217" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="darj-crop-u72844.jpg" crc="431648956" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="ilustracion marco-crop-u72874.jpg" crc="306154767" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="alogo rojo-crop-u72878.jpg" crc="3827764020" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="mockup tere 3-crop-u72859.jpg" crc="198852273" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="pompongif.gif" crc="3937420999" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="13.png" crc="889696" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="12.png" crc="3984713862" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="ns carte-crop-u728522.jpg" crc="335600935" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="tin sel rayas azules-crop-u728652.jpg" crc="3873151053" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="darj-crop-u728442.jpg" crc="3803562786" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="ilustracion marco344x344.jpg" crc="3917727046" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="alogo rojo-crop-u728782.jpg" crc="261263269" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="mockup tere 3-crop-u728592.jpg" crc="4230647232" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="ns carte-crop-u728523.jpg" crc="454055248" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="tin sel rayas azules-crop-u728653.jpg" crc="499315331" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="darj-crop-u728443.jpg" crc="3979226557" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="ilustracion marco-crop-u728742.jpg" crc="337277114" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="alogo rojo-crop-u728783.jpg" crc="4077342312" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="mockup tere 3-crop-u728593.jpg" crc="349878824" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="13258x258.png" crc="476674006" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="12258x258.png" crc="3936358661" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="ns carte-crop-u728524.jpg" crc="3996994320" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="tin sel rayas azules-crop-u728654.jpg" crc="3884193826" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="darj-crop-u728444.jpg" crc="4068593217" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="ilustracion marco-crop-u728743.jpg" crc="437146122" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="alogo rojo-crop-u728784.jpg" crc="3862267961" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="mockup tere 3-crop-u728594.jpg" crc="3845997312" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="13278x278.png" crc="225121474" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="12278x278.png" crc="4142001403" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="ns carte-crop-u728525.jpg" crc="19785811" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="tin sel rayas azules-crop-u728655.jpg" crc="3884193826" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="darj-crop-u728445.jpg" crc="3957250700" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="ilustracion marco-crop-u728744.jpg" crc="3842510600" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="alogo rojo-crop-u728785.jpg" crc="3919014672" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
-    <file name="mockup tere 3-crop-u728595.jpg" crc="3845997312" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
-    </file>
     <file name="unadjustednonraw_thumb_3e2.jpg" crc="125500088" seo="true" ref="craftwork:creations">
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
     </file>
     <file name="15 pajaritas.gif" crc="207847602" seo="true" ref="craftwork">
       <caption webpage="craftwork" alt=""/>
@@ -2159,20 +2081,32 @@
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
     </file>
     <file name="broderiebleu.jpg" crc="265683386" seo="true" ref="craftwork:creations">
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
-      <caption webpage="creations" alt=""/>
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
     </file>
     <file name="unadjustednonraw_thumb_3e2280x280.jpg" crc="145724109" seo="true" ref="craftwork">
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
     </file>
     <file name="broderiebleu283x280.jpg" crc="4221505813" seo="true" ref="craftwork">
+      <caption webpage="craftwork" alt=""/>
+      <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
       <caption webpage="craftwork" alt=""/>
     </file>
@@ -2180,27 +2114,125 @@
       <caption webpage="creations" alt=""/>
       <caption webpage="creations" alt=""/>
     </file>
-    <file name="02mood-board.gif" crc="3785777177" seo="true" ref="trends">
+    <file name="tin.gif" crc="337602022" seo="true" ref="index:packaging">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="10-.png" crc="4164262923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ns print w tatiana280x280.jpg" crc="413174230" seo="true" ref="neo-swing">
+      <caption webpage="neo-swing" alt=""/>
+      <caption webpage="neo-swing" alt=""/>
+    </file>
+    <file name="cafe litt-crop-u79425.jpg" crc="360066455" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="cafe litt-crop-u794252.jpg" crc="134084641" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="d cafe-crop-u79423.jpg" crc="310342496" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="cafe litt-crop-u794253.jpg" crc="360066455" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="cafe litte-crop-u79434.jpg" crc="84103058" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="cafe litt-crop-u794254.jpg" crc="4186350495" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="d cafe-crop-u794232.jpg" crc="129752307" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="cafe litte-crop-u794342.jpg" crc="4294044338" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="cafe litt-crop-u794255.jpg" crc="4186350495" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="cafe lit-crop-u79427.jpg" crc="429493549" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="d cafe-crop-u794233.jpg" crc="4097973604" seo="true" ref="darjeeling-fw18">
+      <caption webpage="darjeeling-fw18" alt=""/>
+    </file>
+    <file name="01mood-board.gif" crc="4143630316" seo="true" ref="trends">
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
       <caption webpage="trends" alt=""/>
     </file>
+    <file name="01 easy.jpg" crc="43887986" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="01 easy regalo-crop-u79872.jpg" crc="3872782181" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="02 pavitos.jpg" crc="210128875" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="03 cactus cream.jpg" crc="4033206978" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="01 easy regalo-crop-u798722.jpg" crc="3930475314" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="01 easy regalo-crop-u798723.jpg" crc="39421446" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="03 cactus cream431x288.jpg" crc="327361372" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="01 easy280x280.jpg" crc="319504713" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="01 easy regalo-crop-u798724.jpg" crc="3838080995" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="02 pavitos280x280.jpg" crc="56312653" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="03 cactus cream280x187.jpg" crc="4115498748" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="01 easy regalo-crop-u798725.jpg" crc="3838080995" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+    </file>
+    <file name="03 cactus cream281x187.jpg" crc="3810806975" seo="true" ref="packaging">
+      <caption webpage="packaging" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="10260346" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="about.html" crc="4125940484" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="gracias--merci--thanks.html" crc="3776391493" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="contact.html" crc="119488278" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="prints.html" crc="4009095951" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="graphic.html" crc="234865778" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="logo-asso-architects-belleville.html" crc="3810696061" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="neo-swing.html" crc="4288185183" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="darjeeling-fw18.html" crc="102315723" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="darjeeling-ss17.html" crc="4243419048" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="stationery.html" crc="77045289" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="inicio---copia.html" crc="181318014" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="craftwork.html" crc="3901779124" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="creations.html" crc="4152576716" seo="true" mt="1516867105781" redirect="true"/>
-  <file name="trends.html" crc="9959469" seo="true" mt="1516867105781" redirect="true"/>
+  <file name="index.html" crc="528534833" seo="true" mt="1517326587413" redirect="true"/>
+  <file name="about.html" crc="4121240165" seo="true" mt="1517324595779" redirect="true"/>
+  <file name="contact.html" crc="113149259" seo="true" mt="1517324595865" redirect="true"/>
+  <file name="prints.html" crc="305600794" seo="true" mt="1517324595970" redirect="true"/>
+  <file name="graphic.html" crc="4024734118" seo="true" mt="1517327119420" redirect="true"/>
+  <file name="logo-asso-architects-belleville.html" crc="346557558" seo="true" mt="1517324596137" redirect="true"/>
+  <file name="neo-swing.html" crc="268730306" seo="true" mt="1517324596211" redirect="true"/>
+  <file name="darjeeling-fw18.html" crc="4288345408" seo="true" mt="1517324596436" redirect="true"/>
+  <file name="darjeeling-ss17.html" crc="157600666" seo="true" mt="1517324596628" redirect="true"/>
+  <file name="stationery.html" crc="382777694" seo="true" mt="1517327275187" redirect="true"/>
+  <file name="craftwork.html" crc="3952855943" seo="true" mt="1517324596789" redirect="true"/>
+  <file name="creations.html" crc="51879330" seo="true" mt="1517324596905" redirect="true"/>
+  <file name="trends.html" crc="513767216" seo="true" mt="1517325820812" redirect="true"/>
+  <file name="packaging.html" crc="307599974" seo="true" mt="1517326283801" redirect="true"/>
 </manifest>

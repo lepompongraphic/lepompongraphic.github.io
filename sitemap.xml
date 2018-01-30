@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.lepompongraphic.com/index.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,9 +22,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/02.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/tin%20sel%20rayas%20azules-crop-u51331.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/darj-crop-u51577.jpg</image:loc>
@@ -93,9 +90,6 @@
       <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u511552.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/tin%20sel%20rayas%20azules-crop-u513312.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.lepompongraphic.com/images/darj-crop-u515772.jpg</image:loc>
     </image:image>
     <image:image>
@@ -121,9 +115,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/cafe%20litt258x258.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/tin%20sel%20rayas%20azules-crop-u513313.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/darj-crop-u515773.jpg</image:loc>
@@ -168,9 +159,6 @@
       <image:loc>http://www.lepompongraphic.com/images/044.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/tin%20sel%20rayas%20azules-crop-u513314.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.lepompongraphic.com/images/darj-crop-u515774.jpg</image:loc>
     </image:image>
     <image:image>
@@ -207,9 +195,6 @@
       <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u511555.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/tin%20sel%20rayas%20azules-crop-u513315.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.lepompongraphic.com/images/darj-crop-u515775.jpg</image:loc>
     </image:image>
     <image:image>
@@ -224,10 +209,16 @@
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/11313x203.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/tin.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/10-.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.lepompongraphic.com/neo-swing.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -261,9 +252,6 @@
       <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u68123.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ns%20print%20w%20tatiana-crop-u68186.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.lepompongraphic.com/images/ns%20t-shirt%20guy.jpg</image:loc>
     </image:image>
     <image:image>
@@ -280,9 +268,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u681232.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ns%20print%20w%20tatiana-crop-u681862.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/ns%20shop%20sign-crop-u681382.jpg</image:loc>
@@ -318,9 +303,6 @@
       <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u681234.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ns%20print%20w%20tatiana-crop-u681863.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.lepompongraphic.com/images/ns%20t-shirt%20guy280x280.jpg</image:loc>
     </image:image>
     <image:image>
@@ -339,9 +321,6 @@
       <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u681235.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ns%20print%20w%20tatiana-crop-u681864.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.lepompongraphic.com/images/ns%20shop%20sign-crop-u681385.jpg</image:loc>
     </image:image>
     <image:image>
@@ -350,40 +329,13 @@
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/ns%20tote%20bag-crop-u682565.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/ns%20print%20w%20tatiana280x280.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.lepompongraphic.com/about.html</loc>
-    <lastmod>2018-01-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/logo%20pompon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/p%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/insta%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/f%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/be%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/t%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/corazon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/copyright%20copia.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.lepompongraphic.com/gracias--merci--thanks.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -413,7 +365,7 @@
   </url>
   <url>
     <loc>http://www.lepompongraphic.com/contact.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -452,7 +404,7 @@
   </url>
   <url>
     <loc>http://www.lepompongraphic.com/prints.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -701,7 +653,7 @@
   </url>
   <url>
     <loc>http://www.lepompongraphic.com/graphic.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -830,7 +782,7 @@
   </url>
   <url>
     <loc>http://www.lepompongraphic.com/logo-asso-architects-belleville.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -940,54 +892,15 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.lepompongraphic.com/inicio---copia.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <loc>http://www.lepompongraphic.com/craftwork.html</loc>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/logo%20pompon.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/cafe%20litt.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/01.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/035.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/02.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/03.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/02.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/06.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/07.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/08.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/14.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/01-mood-board-.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/11.png</image:loc>
+      <image:loc>http://www.lepompongraphic.com/images/pompongif-.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/p%20copia.png</image:loc>
@@ -1011,123 +924,24 @@
       <image:loc>http://www.lepompongraphic.com/images/copyright%20copia.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/044.jpg</image:loc>
+      <image:loc>http://www.lepompongraphic.com/images/unadjustednonraw_thumb_3e2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u72852.jpg</image:loc>
+      <image:loc>http://www.lepompongraphic.com/images/15%20pajaritas.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/tin%20sel%20rayas%20azules-crop-u72865.jpg</image:loc>
+      <image:loc>http://www.lepompongraphic.com/images/broderiebleu.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/darj-crop-u72844.jpg</image:loc>
+      <image:loc>http://www.lepompongraphic.com/images/unadjustednonraw_thumb_3e2280x280.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ilustracion%20marco-crop-u72874.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/alogo%20rojo-crop-u72878.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/mockup%20tere%203-crop-u72859.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/pompongif.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/13.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/12.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u728522.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/tin%20sel%20rayas%20azules-crop-u728652.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/darj-crop-u728442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ilustracion%20marco344x344.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/alogo%20rojo-crop-u728782.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/mockup%20tere%203-crop-u728592.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u728523.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/tin%20sel%20rayas%20azules-crop-u728653.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/darj-crop-u728443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ilustracion%20marco-crop-u728742.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/alogo%20rojo-crop-u728783.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/mockup%20tere%203-crop-u728593.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/13258x258.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/12258x258.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u728524.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/tin%20sel%20rayas%20azules-crop-u728654.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/darj-crop-u728444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ilustracion%20marco-crop-u728743.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/alogo%20rojo-crop-u728784.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/mockup%20tere%203-crop-u728594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/13278x278.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/12278x278.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ns%20carte-crop-u728525.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/tin%20sel%20rayas%20azules-crop-u728655.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/darj-crop-u728445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/ilustracion%20marco-crop-u728744.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/alogo%20rojo-crop-u728785.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/mockup%20tere%203-crop-u728595.jpg</image:loc>
+      <image:loc>http://www.lepompongraphic.com/images/broderiebleu283x280.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.lepompongraphic.com/darjeeling-fw18.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1313,10 +1127,43 @@
     <image:image>
       <image:loc>http://www.lepompongraphic.com/images/d%20cafe-crop-u692253.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/cafe%20litt-crop-u79425.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/cafe%20litt-crop-u794252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/d%20cafe-crop-u79423.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/cafe%20litt-crop-u794253.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/cafe%20litte-crop-u79434.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/cafe%20litt-crop-u794254.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/d%20cafe-crop-u794232.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/cafe%20litte-crop-u794342.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/cafe%20litt-crop-u794255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/cafe%20lit-crop-u79427.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/d%20cafe-crop-u794233.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.lepompongraphic.com/darjeeling-ss17.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1460,7 +1307,7 @@
   </url>
   <url>
     <loc>http://www.lepompongraphic.com/stationery.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1588,8 +1435,41 @@
     </image:image>
   </url>
   <url>
+    <loc>http://www.lepompongraphic.com/trends.html</loc>
+    <lastmod>2018-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/logo%20pompon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/p%20copia.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/insta%20copia.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/f%20copia.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/be%20copia.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/t%20copia.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/corazon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/copyright%20copia.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/01mood-board.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://www.lepompongraphic.com/creations.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1636,56 +1516,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.lepompongraphic.com/craftwork.html</loc>
-    <lastmod>2018-01-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/logo%20pompon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/pompongif-.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/p%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/insta%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/f%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/be%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/t%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/corazon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/copyright%20copia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/unadjustednonraw_thumb_3e2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/15%20pajaritas.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/broderiebleu.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/unadjustednonraw_thumb_3e2280x280.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/broderiebleu283x280.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.lepompongraphic.com/trends.html</loc>
-    <lastmod>2018-01-25</lastmod>
+    <loc>http://www.lepompongraphic.com/packaging.html</loc>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1713,7 +1545,46 @@
       <image:loc>http://www.lepompongraphic.com/images/copyright%20copia.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.lepompongraphic.com/images/02mood-board.gif</image:loc>
+      <image:loc>http://www.lepompongraphic.com/images/tin.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/01%20easy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/01%20easy%20regalo-crop-u79872.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/02%20pavitos.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/03%20cactus%20cream.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/01%20easy%20regalo-crop-u798722.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/01%20easy%20regalo-crop-u798723.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/03%20cactus%20cream431x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/01%20easy280x280.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/01%20easy%20regalo-crop-u798724.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/02%20pavitos280x280.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/03%20cactus%20cream280x187.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/01%20easy%20regalo-crop-u798725.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lepompongraphic.com/images/03%20cactus%20cream281x187.jpg</image:loc>
     </image:image>
   </url>
   <url>
